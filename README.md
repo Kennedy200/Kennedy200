@@ -4,7 +4,7 @@ Software Engineer with a focus on AI/ML, full-stack web, and cross-platform appl
 I build and train models, ship mobile and desktop apps, and integrate intelligence into products people actually use.
 
  🔭 Currently working on
-- **Ademy** — an AI-powered learning platform
+- PLOT — a mobile first novel app for all nigerian users
 
  🛠️ Skills
 - **AI/ML** — Model building, training & integration
